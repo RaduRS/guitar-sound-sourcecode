@@ -6,57 +6,57 @@ const SHOP_DATA = [
       items: [
         {
           id: 1,
-          name: 'Brown Brim',
-          imageUrl: 'https://i.ibb.co/ZYW3VTp/brown-brim.png',
-          price: 25
+          name: 'Gibson Custom 60th Anniversary',
+          imageUrl: 'https://andertons-productimages.imgix.net/393291-00531%20%281%29.jpg?fit=fillmax&bg=FFFFFF&auto=compress&w=3000&h=3000',
+          price: '£5,699'
         },
         {
           id: 2,
-          name: 'Blue Beanie',
-          imageUrl: 'https://i.ibb.co/ypkgK0X/blue-beanie.png',
-          price: 18
+          name: 'PRS McCarty',
+          imageUrl: 'https://andertons-productimages.imgix.net/387464-0292806%20%281%29.jpg?fit=fillmax&bg=FFFFFF&auto=compress&w=3000&h=3000',
+          price: '£3,699'
         },
         {
           id: 3,
-          name: 'Brown Cowboy',
-          imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
-          price: 35
+          name: 'Taylor 224ce',
+          imageUrl: 'https://andertons-productimages.imgix.net/388321-224CE-KDLX.jpg?fit=fillmax&bg=FFFFFF&auto=compress&w=1294&h=1294',
+          price: '£1,499'
         },
         {
           id: 4,
-          name: 'Grey Brim',
-          imageUrl: 'https://i.ibb.co/RjBLWxB/grey-brim.png',
-          price: 25
+          name: 'Epiphone Wildkat Royale',
+          imageUrl: 'https://andertons-productimages.imgix.net/151377-tmp29A0.jpg?fit=fillmax&bg=FFFFFF&auto=compress&w=1794&h=1794',
+          price: '£449'
         },
         {
           id: 5,
-          name: 'Green Beanie',
-          imageUrl: 'https://i.ibb.co/YTjW3vF/green-beanie.png',
-          price: 18
+          name: 'Chapman ML1-8',
+          imageUrl: 'https://andertons-productimages.imgix.net/407284-WMI20040034%20%281%29.jpg?fit=fillmax&bg=FFFFFF&auto=compress&w=3000&h=3000',
+          price: '£949'
         },
         {
           id: 6,
-          name: 'Palm Tree Cap',
-          imageUrl: 'https://i.ibb.co/rKBDvJX/palm-tree-cap.png',
-          price: 14
+          name: 'PRS Custom 22',
+          imageUrl: 'https://andertons-productimages.imgix.net/401186-0298224%20%282%29.jpg?fit=fillmax&bg=FFFFFF&auto=compress&w=3000&h=3000',
+          price: '£3,459'
         },
         {
           id: 7,
-          name: 'Red Beanie',
-          imageUrl: 'https://i.ibb.co/bLB646Z/red-beanie.png',
-          price: 18
+          name: 'Fender American II',
+          imageUrl: 'https://andertons-productimages.imgix.net/409125-Fender-American-Professional-II-Stratocaster-Sienna-Sunburst-Maple-Fingerboard-Body.jpg?fit=fillmax&bg=FFFFFF&auto=compress&w=1197&h=1197',
+          price: '£1,599'
         },
         {
           id: 8,
-          name: 'Wolf Cap',
-          imageUrl: 'https://i.ibb.co/1f2nWMM/wolf-cap.png',
-          price: 14
+          name: 'Ibanez Artcore',
+          imageUrl: 'https://andertons-productimages.imgix.net/257270-AS53_TBF_5B_02%20-%20Copy.jpg?w=680&h=680&fit=fill&bg=FFFFFF&auto=compress&auto=format',
+          price: '£249'
         },
         {
           id: 9,
-          name: 'Blue Snapback',
-          imageUrl: 'https://i.ibb.co/X2VJP2W/blue-snapback.png',
-          price: 16
+          name: 'Gibson Montana',
+          imageUrl: 'https://andertons-productimages.imgix.net/292128-1535549369904.png?fit=fillmax&bg=FFFFFF&auto=compress&w=2858&h=2858',
+          price: '£1,899'
         }
       ]
     },
@@ -67,51 +67,51 @@ const SHOP_DATA = [
       items: [
         {
           id: 1,
-          name: 'Adidas NMD',
-          imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
-          price: 220
+          name: 'Fender American Ultra',
+          imageUrl: 'https://andertons-productimages.imgix.net/361689-0199010712_gtr_frt_001_rr%20-%20Copy.png?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£1,799'
         },
         {
           id: 2,
-          name: 'Adidas Yeezy',
-          imageUrl: 'https://i.ibb.co/dJbG1cT/yeezy.png',
-          price: 280
+          name: 'Fender American P Bass',
+          imageUrl: 'https://andertons-productimages.imgix.net/339605-0194650705%20Hero.jpg?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£1,399'
         },
         {
           id: 3,
-          name: 'Black Converse',
-          imageUrl: 'https://i.ibb.co/bPmVXyP/black-converse.png',
-          price: 110
+          name: 'Fender 60th Anniversary',
+          imageUrl: 'https://andertons-productimages.imgix.net/403002-Screenshot%202020-08-13%20at%2014.18.05.png?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£1,199'
         },
         {
           id: 4,
-          name: 'Nike White AirForce',
-          imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
-          price: 160
+          name: 'Fender Professional II',
+          imageUrl: 'https://andertons-productimages.imgix.net/403110-Screenshot%202020-08-14%20at%2011.57.09.png?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£1,699'
         },
         {
           id: 5,
-          name: 'Nike Red High Tops',
-          imageUrl: 'https://i.ibb.co/QcvzydB/nikes-red.png',
-          price: 160
+          name: 'G&L USA Fallout',
+          imageUrl: 'https://andertons-productimages.imgix.net/362343-1574073142598.png?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£1,299'
         },
         {
           id: 6,
-          name: 'Nike Brown High Tops',
-          imageUrl: 'https://i.ibb.co/fMTV342/nike-brown.png',
-          price: 160
+          name: 'Ibanez EHB1500-DEF',
+          imageUrl: 'https://andertons-productimages.imgix.net/369765-EHB1500_DEF_1P_01%20-%20Copy.jpg?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£1,239'
         },
         {
           id: 7,
-          name: 'Air Jordan Limited',
-          imageUrl: 'https://i.ibb.co/w4k6Ws9/nike-funky.png',
-          price: 190
+          name: 'Hofner HCT President',
+          imageUrl: 'https://andertons-productimages.imgix.net/275465-1526542641835.png?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£715'
         },
         {
           id: 8,
-          name: 'Timberlands',
-          imageUrl: 'https://i.ibb.co/Mhh6wBg/timberlands.png',
-          price: 200
+          name: 'Gretsch G2220',
+          imageUrl: 'https://andertons-productimages.imgix.net/257630-2514730580_gtr_frt_001_rr%20-%20Copy.jpg?w=680&h=680&fit=fill&bg=FFFFFF&auto=compress&auto=format',
+          price: '£319'
         }
       ]
     },
@@ -122,33 +122,33 @@ const SHOP_DATA = [
       items: [
         {
           id: 1,
-          name: 'Black Jean Shearling',
-          imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
-          price: 125
+          name: 'Fender Tone Master',
+          imageUrl: 'https://andertons-productimages.imgix.net/343539-1562844422853.png?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£799'
         },
         {
           id: 2,
-          name: 'Blue Jean Jacket',
-          imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
-          price: 90
+          name: 'Marshall DSL40CR',
+          imageUrl: 'https://andertons-productimages.imgix.net/299017-291915-marshall-dsl40cr-front.jpg?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£599'
         },
         {
           id: 3,
-          name: 'Grey Jean Jacket',
-          imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
-          price: 90
+          name: 'Laney L20T-212',
+          imageUrl: 'https://andertons-productimages.imgix.net/64710-tmp95A1.jpg?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£1,049'
         },
         {
           id: 4,
-          name: 'Brown Shearling',
-          imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
-          price: 165
+          name: 'Line 6 DT25',
+          imageUrl: 'https://andertons-productimages.imgix.net/75380-tmp2DC1.jpg?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£469'
         },
         {
           id: 5,
-          name: 'Tan Trench',
-          imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
-          price: 185
+          name: 'Orange Rockerverb',
+          imageUrl: 'https://andertons-productimages.imgix.net/74757-tmpD292.jpg?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£1,599'
         }
       ]
     },
@@ -159,45 +159,45 @@ const SHOP_DATA = [
       items: [
         {
           id: 1,
-          name: 'Blue Tanktop',
-          imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
-          price: 25
+          name: 'Source Audio Collider',
+          imageUrl: 'https://andertons-productimages.imgix.net/357835-productpage-colliderfront_orig.png?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£349'
         },
         {
           id: 2,
-          name: 'Floral Blouse',
-          imageUrl: 'https://i.ibb.co/4W2DGKm/floral-blouse.png',
-          price: 20
+          name: 'Alexander Pedals',
+          imageUrl: 'https://andertons-productimages.imgix.net/282162-wavel.png?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£199'
         },
         {
           id: 3,
-          name: 'Floral Dress',
-          imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
-          price: 80
+          name: 'Tone City Lil Heat',
+          imageUrl: 'https://andertons-productimages.imgix.net/399760-Tone-City-Lil-Heat-Greg-Koch-Overdrive-Pedal.jpg?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£44'
         },
         {
           id: 4,
-          name: 'Red Dots Dress',
-          imageUrl: 'https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png',
-          price: 80
+          name: 'Boss RV-500',
+          imageUrl: 'https://andertons-productimages.imgix.net/147733-tmp3C59.jpg?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£319'
         },
         {
           id: 5,
-          name: 'Striped Sweater',
-          imageUrl: 'https://i.ibb.co/KmSkMbH/striped-sweater.png',
-          price: 45
+          name: 'Meris Hedra 3',
+          imageUrl: 'https://andertons-productimages.imgix.net/335233-meris-hedra-front.jpg?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£319'
         },
         {
           id: 6,
-          name: 'Yellow Track Suit',
-          imageUrl: 'https://i.ibb.co/v1cvwNf/yellow-track-suit.png',
-          price: 135
+          name: 'JHS Pedals',
+          imageUrl: 'https://andertons-productimages.imgix.net/363873-1575038363078.png?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£135'
         },
         {
           id: 7,
-          name: 'White Blouse',
-          imageUrl: 'https://i.ibb.co/qBcrsJg/white-vest.png',
-          price: 20
+          name: 'JHS Pedals',
+          imageUrl: 'https://andertons-productimages.imgix.net/363601-JHS-Double-Barrel-Hero.jpg?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£299'
         }
       ]
     },
@@ -208,39 +208,39 @@ const SHOP_DATA = [
       items: [
         {
           id: 1,
-          name: 'Camo Down Vest',
-          imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
-          price: 325
+          name: 'Fender FT-1 ',
+          imageUrl: 'https://andertons-productimages.imgix.net/353039-1568300856751.png?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£9'
         },
         {
           id: 2,
-          name: 'Floral T-shirt',
-          imageUrl: 'https://i.ibb.co/qMQ75QZ/floral-shirt.png',
-          price: 20
+          name: 'Hercules Guitar Hanger',
+          imageUrl: 'https://andertons-productimages.imgix.net/286648-gsp38wb-plus_1_hr.jpg?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£13'
         },
         {
           id: 3,
-          name: 'Black & White Longsleeve',
-          imageUrl: 'https://i.ibb.co/55z32tw/long-sleeve.png',
-          price: 25
+          name: 'Rode NT1',
+          imageUrl: 'https://andertons-productimages.imgix.net/393616-Rode-NT1-Cardioid-Condenser-Microphone-Black-Kit.jpg?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£199'
         },
         {
           id: 4,
-          name: 'Pink T-shirt',
-          imageUrl: 'https://i.ibb.co/RvwnBL8/pink-shirt.png',
-          price: 25
+          name: 'Tourtech Capo',
+          imageUrl: 'https://andertons-productimages.imgix.net/320609-TTA-C01BK%20%282%29.JPG?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£9'
         },
         {
           id: 5,
-          name: 'Jean Long Sleeve',
-          imageUrl: 'https://i.ibb.co/VpW4x5t/roll-up-jean-shirt.png',
-          price: 40
+          name: 'Air Straps',
+          imageUrl: 'https://andertons-productimages.imgix.net/325833-18SpEnN8.jpeg?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£54'
         },
         {
           id: 6,
-          name: 'Burgundy T-shirt',
-          imageUrl: 'https://i.ibb.co/mh3VM1f/polka-dot-shirt.png',
-          price: 25
+          name: 'Dunlop Tortex',
+          imageUrl: 'https://andertons-productimages.imgix.net/321068-1549537172546.png?w=768&h=768&fit=fill&bg=FFFFFF&auto=format&ixlib=imgixjs-3.3.2',
+          price: '£5'
         }
       ]
     }
